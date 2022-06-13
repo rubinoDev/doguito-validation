@@ -12,4 +12,4 @@ A web page built in order to improve my form validation abilities
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/105171818/172874428-4256946b-2e5f-439f-9ff0-704460c764a7.png"></code>
 ## Live demo : 
-https://rubinodev.github.io/doguito-validation/
+https://62a7ca69540f501852798eb8--golden-gelato-69b1b6.netlify.app/
